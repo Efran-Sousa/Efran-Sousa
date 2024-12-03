@@ -102,7 +102,7 @@ Me chamo Éfran Santos Sousa, tenho 19 anos e sou natural de Castanhal-Pará. At
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="140" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Efran-Sousa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
