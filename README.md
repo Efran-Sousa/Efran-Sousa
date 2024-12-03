@@ -1,8 +1,12 @@
-# 🧑🏻‍💻Éfran Sousa
+# 🧑🏻‍💻 Éfran Sousa
 
 **`Cursando Engenharia da Computação`**
 
 Me chamo Éfran Santos Sousa, tenho 19 anos e sou natural de Castanhal-Pará. Atualmente, estou cursando Engenharia da Computação na UFPA. Sou apaixonado por tecnologia e estou sempre disposto a aprender coisas novas relacionadas a área.
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](sousaefran@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/efransousa/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/dev-éfran-sousa)
     <a href="https://github.com/Efran-Sousa?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
@@ -61,11 +65,11 @@ Me chamo Éfran Santos Sousa, tenho 19 anos e sou natural de Castanhal-Pará. At
 />
 <img 
   align="left" 
-    alt="C++" 
-    title="C++"
+    alt="C" 
+    title="C"
     width="30px" 
     style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 <img
    align="left" 
     alt="Java" 
@@ -73,6 +77,13 @@ Me chamo Éfran Santos Sousa, tenho 19 anos e sou natural de Castanhal-Pará. At
     width="30px" 
     style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img 
+      align="left" 
+    alt="GitHub" 
+    title="GitHub"
+    width="30px" 
+    style="padding-right: 10px;"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 
 <br/>
 <br/>
