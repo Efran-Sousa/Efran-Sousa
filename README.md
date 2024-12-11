@@ -62,6 +62,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Efran-Sousa/Efran-Sousa/output/snake.svg" alt="Snake animation" />
-
-###
