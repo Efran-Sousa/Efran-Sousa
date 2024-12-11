@@ -37,7 +37,7 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/dev-éfran-sousa" target="_blank">
+  <a href="https://www.linkedin.com/in/%C3%A9fran-sousa-b40a79326/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/efransousa/" target="_blank">
