@@ -54,11 +54,7 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Efran-Sousa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="130" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Efran-Sousa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="91" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Efran-Sousa&radius=16&theme=redical&area=true&order=5&hide_border=true" height="200" alt="activity-graph graph"  />
-</div>
+![Snake animation](https://github.com/Efran-Sousa/Efran-Sousa/blob/output/github-contribution-grid-snake-dark.svg)
 
 ###
 
